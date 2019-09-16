@@ -2,6 +2,7 @@
 Követelményspecifikáció
 
 1. Bevezetés
+Próba dokumentáció a bevezetés specifikációhoz.
 
 2. Jelenlegi helyzet
 
